@@ -1,10 +1,10 @@
 let unlocks = {
-    "Uncommon": {},
-    "Rare": {},
-    "Epic": {},
-    "Legendary": {},
-    "Chroma": {},
-    "Mystical": {}
+    "Uncommon": {0},
+    "Rare": {2},
+    "Epic": {3},
+    "Legendary": {17},
+    "Chroma": {3},
+    "Mystical": {5}
 }
 
 let unique = 'NONE'
