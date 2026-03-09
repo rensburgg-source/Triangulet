@@ -4,7 +4,7 @@ let unlocks = {
     "Epic": {},
     "Legendary": {},
     "Chroma": {},
-    "Mystical": {}
+    "Mystical": {5}
 }
 
 let unique = 'NONE'
